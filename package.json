@@ -24,11 +24,11 @@
         "multipart/formdata"
     ],
     "dependencies": {
-        "busboy": "^0.3.0"
+        "busboy": "^1.6.0"
     },
     "devDependencies": {
-        "chai": "^3.5.0",
-        "mocha": "^2.5.3",
-        "sinon": "^6.3.1"
+        "chai": "^4.3.6",
+        "mocha": "^10.0.0",
+        "sinon": "^14.0.0"
     }
 }
